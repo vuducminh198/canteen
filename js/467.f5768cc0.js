@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdashboard_v2"]=self["webpackChunkdashboard_v2"]||[]).push([[467],{21467:function(n,a,t){t.r(a),t.d(a,{default:function(){return _}});var u=function(){var n=this,a=n._self._c;return a("div",{staticClass:"__404"},[n._v(" Not found ")])},e=[],r={name:"page__404",data(){return{}}},s=r,l=t(81656),d=(0,l.A)(s,u,e,!1,null,null,null),_=d.exports}}]);
